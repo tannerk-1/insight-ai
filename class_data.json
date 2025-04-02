@@ -1,0 +1,178 @@
+{
+  "qa_data": [
+    {
+      "context": "Water cycle describes how water evaporates, condenses, and precipitates."
+    },
+    {
+      "context": "Photosynthesis is the process by which plants make food using sunlight."
+    },
+    {
+      "context": "Federalism is a system of government in which power is divided between a central authority and constituent political units, such as states or provinces."
+    },
+    {
+      "context": "Authoritarianism is a form of government characterized by strong central power and limited political freedoms, with little to no constitutional accountability."
+    },
+    {
+      "context": "A parliamentary system is a democratic form of government where the executive branch derives its legitimacy from and is accountable to the legislature."
+    },
+    {
+      "context": "Separation of powers is a model for governance in which the state's responsibilities are divided among different branches to prevent any one branch from gaining too much power."
+    },
+    {
+      "context": "Bicameralism refers to a legislative body that has two separate chambers or houses, often designed to provide checks and balances."
+    },
+    {
+      "context": "A unitary state is a form of government where a single central authority holds most of the power, with any administrative divisions exercising only powers granted by the central government."
+    },
+    {
+      "context": "Sovereignty refers to the supreme authority within a territory, meaning that a state has the ultimate power to govern itself without external interference."
+    },
+    {
+      "context": "Pluralism is the recognition and affirmation of diversity within a political body, which permits peaceful coexistence of different interests and values."
+    },
+    {
+      "context": "Political culture encompasses the shared attitudes, values, and beliefs about politics and government within a society."
+    },
+    {
+      "context": "Civil society refers to the network of voluntary associations and organizations that exist independently of the government, playing a role in fostering community and influencing public policy."
+    },
+    {
+      "context": "A regime is the form or system of government in a state, often used to describe authoritarian or transitional governments."
+    },
+    {
+      "context": "Consociational democracy is a power-sharing arrangement in which various segments of society, often divided by ethnicity or religion, participate collectively in governance."
+    },
+    {
+      "context": "A hybrid regime exhibits characteristics of both democratic and authoritarian systems, often with contested elections and limited political freedoms."
+    },
+    {
+      "context": "Legitimacy in political science refers to the general belief that a government has the right to rule, based on factors like tradition, law, or consent of the governed."
+    },
+    {
+      "context": "Political participation is the various ways in which citizens engage with the political process, including voting, protests, and civic activism."
+    },
+    {
+      "context": "Civil liberties are individual rights protected by law from unjust governmental or other interference."
+    },
+    {
+      "context": "Civil rights are the rights of citizens to political and social freedom and equality."
+    },
+    {
+      "context": "A constitution is a body of fundamental principles or established precedents according to which a state or other organization is acknowledged to be governed."
+    },
+    {
+      "context": "Judicial review is the power of courts to assess whether a law is in compliance with the constitution."
+    },
+    {
+      "context": "A political party is an organized group of people with at least roughly similar political aims and opinions, that seeks to influence public policy by getting its candidates elected to public office."
+    },
+    {
+      "context": "An interest group is an organized group that tries to influence public policy to benefit its members or the issues they care about."
+    },
+    {
+      "context": "A social movement is a type of group action that is focused on specific political or social issues, aiming to promote or resist change."
+    },
+    {
+      "context": "A referendum is a direct vote by the electorate on a particular proposal or issue."
+    },
+    {
+      "context": "A revolution is a forcible overthrow of a government or social order, in favor of a new system."
+    },
+    {
+      "context": "A coup d'\u00e9tat is a sudden, violent, and illegal seizure of power from a government."
+    },
+    {
+      "context": "Political ideology is a set of beliefs about political values and the role of government."
+    },
+    {
+      "context": "Nationalism is an ideology that emphasizes loyalty, devotion, or allegiance to a nation or nation-state and holds that such obligations outweigh other individual or group interests."
+    },
+    {
+      "context": "Patron-client networks are systems in which a central authority provides benefits to supporters in exchange for loyalty and services."
+    },
+    {
+      "context": "Political socialization is the process by which individuals learn and frequently internalize a political lens framing their perceptions of how power is arranged and how the world around them is organized."
+    },
+    {
+      "context": "A unitary system is a sovereign state governed as a single entity in which the central government is supreme."
+    },
+    {
+      "context": "A federal system is a system of government in which entities such as states or provinces share power with a national government."
+    },
+    {
+      "context": "Devolution is the statutory delegation of powers from the central government of a sovereign state to govern at a subnational level."
+    },
+    {
+      "context": "Globalization is the process by which businesses or other organizations develop international influence or start operating on an international scale."
+    },
+    {
+      "context": "A population is the entire group of individuals or instances about whom we hope to learn."
+    },
+    {
+      "context": "A sample is a subset of a population, examined in hope of learning about the population."
+    },
+    {
+      "context": "A parameter is a numerically valued attribute of a model for a population."
+    },
+    {
+      "context": "A statistic is a value calculated from data to summarize aspects of the data."
+    },
+    {
+      "context": "A categorical variable names categories and answers questions about how cases fall into those categories."
+    },
+    {
+      "context": "A quantitative variable is a variable in which the numbers act as numerical values; always has units."
+    },
+    {
+      "context": "A distribution gives the possible values of a variable and the relative frequency of each value."
+    },
+    {
+      "context": "The mean is the sum of the data divided by the count of the data."
+    },
+    {
+      "context": "The median is the middle value in a data set when the values are arranged in ascending or descending order."
+    },
+    {
+      "context": "The mode is the value that appears most frequently in a data set."
+    },
+    {
+      "context": "Range is the difference between the highest and lowest values in a data set."
+    },
+    {
+      "context": "Variance is the average of the squared deviations from the mean."
+    },
+    {
+      "context": "Standard deviation is the square root of the variance."
+    },
+    {
+      "context": "A z-score measures the distance of a data point from the mean in units of standard deviation."
+    },
+    {
+      "context": "A percentile indicates the value below which a given percentage of observations in a group of observations falls."
+    },
+    {
+      "context": "A boxplot is a graphical representation of data that shows the distribution's minimum, first quartile, median, third quartile, and maximum."
+    },
+    {
+      "context": "A histogram is a graphical representation of the distribution of numerical data, often used to depict the frequency of data within certain intervals."
+    },
+    {
+      "context": "A scatterplot is a type of plot or mathematical diagram using Cartesian coordinates to display values for typically two variables for a set of data."
+    },
+    {
+      "context": "Correlation measures the strength and direction of the linear relationship between two quantitative variables."
+    },
+    {
+      "context": "A regression line is a straight line that describes how a response variable y changes as an explanatory variable x changes."
+    },
+    {
+      "context": "A single-member district is an electoral district that elects one representative to a legislative body.",
+      "question": "",
+      "answers": {
+        "text": [],
+        "answer_start": []
+      }
+    }
+  ],
+  "lesson_data": []
+}
